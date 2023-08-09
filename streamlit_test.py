@@ -13,9 +13,9 @@
 
 
 import streamlit as st
-from streamlit_jupyter import StreamlitPatcher, tqdm
+#from streamlit_jupyter import StreamlitPatcher, tqdm
 
-StreamlitPatcher().jupyter()  # register streamlit with jupyter-compatible wrappers
+#StreamlitPatcher().jupyter()  # register streamlit with jupyter-compatible wrappers
 import pandas as pd
 
 
